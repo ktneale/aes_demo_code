@@ -3,8 +3,7 @@ AES file encryption/decryption tools.  Written by Kevin Neale (c) 2015
 
 A collection of tools to arbitrarily encrypt/decrypt file using OpenSSL AES 256 CBC with a 128 bit block size.
 
-Note! It's for demonstration purposes only and uses fixed key and initialisation vector.  
-It should not be used for production purposes!
+Note! It's for demonstration purposes only.  It should not be used for production purposes!
 
 To build:
 
